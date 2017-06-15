@@ -1,0 +1,197 @@
+@charset "utf-8";
+body {
+	font: 100% Arial, Verdana, Helvetica, sans-serif;
+	font-size: small;
+	background: #000000;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #d7cec0;
+}
+
+* {margin:0; padding:0;}
+img {border:0;}
+
+.oneColFixCtrHdr #container {
+	width: 960px;  /* using 20px less than a full 800px width allows for browser chrome and avoids a horizontal scroll bar */
+	background: #000000;
+	margin: 0 auto;
+	text-align: left;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: none;
+	border-left-style: solid;
+	border-top-color: #51110f;
+	border-right-color: #51110f;
+	border-bottom-color: #51110f;
+	border-left-color: #51110f;
+}
+
+
+.oneColFixCtrHdr #header {
+	background: #DDDDDD;
+	position: relative;
+	z-index: 20;
+}
+
+.oneColFixCtrHdr #sidegraphictop {
+	top: 129px;
+	left: 514px;
+	position: absolute;
+	z-index: 10;
+}
+
+.oneColFixCtrHdr #sidegraphicbottom {
+	top: 385px;
+	left: 631px;
+	position: absolute;
+	z-index: 2;
+}
+
+.oneColFixCtrHdr #sidegraphicheadphones {
+	top: 827px;
+	left: 613px;
+	position: absolute;
+	z-index: 3;
+}
+
+.oneColFixCtrHdr #header h1 {
+	margin: 0; /* zeroing the margin of the last element in the #header div will avoid margin collapse - an unexplainable space between divs. If the div has a border around it, this is not necessary as that also avoids the margin collapse */
+}
+
+.oneColFixCtrHdr #nav {
+	 height: 40px;
+	 background-color:#0d0f0d;
+}
+
+
+.oneColFixCtrHdr #maintop  {
+	background: #0d0f0d;
+	height: 188px;
+	border-bottom: 2px solid #51110f;
+	font-size: 1.1em;
+	position:relative;
+}
+
+
+.oneColFixCtrHdr #maintop #llegaron {
+	padding-top: 34px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 110px;
+}
+
+.oneColFixCtrHdr #maintop p {
+	margin: 5px;
+	width: 376px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 127px;
+}
+
+.oneColFixCtrHdr #maintop #escucharsmall {
+	position: absolute;
+	top: 60px;
+}
+
+
+.oneColFixCtrHdr #mainContent {
+	position: relative;
+	height: 395px;
+}
+
+
+.oneColFixCtrHdr img.headinglasplebes {
+	left: 150px;
+	top: 39px;
+	position: absolute;
+	z-index: 2;
+}
+
+.oneColFixCtrHdr img.headingestrellita {
+	left: 203px;
+	top: 228px;
+	position: absolute;
+	z-index: 2;
+}
+
+.oneColFixCtrHdr img.badgevideo1 {
+	position: absolute;
+	left: 50px;
+	top: 10px;
+	z-index: 4;
+}
+
+.oneColFixCtrHdr img.badgevideo2 {
+	position: absolute;
+	left: 50px;
+	top: 200px;
+	z-index: 4;
+}
+
+
+.oneColFixCtrHdr #videothumb1 {
+	position:absolute;
+	left: 80px;
+	top: 30px;
+	padding: 10px;
+	border: thick dotted #C51200;
+	width: 380px;
+	}
+	
+.oneColFixCtrHdr #videothumb1 p, #videothumb2 p{	
+    float:right;
+	padding: 15px;
+	}	
+	
+.oneColFixCtrHdr #videothumb1 img, #videothumb2 img{
+	float:left;
+	padding: 0px;
+	border: thin solid #F1AD1A;
+	}
+	
+.oneColFixCtrHdr #videothumb2 {
+	position:absolute;
+	left: 80px;
+	top: 220px;
+	padding: 10px;
+	border: thick dotted #C51200;
+	width: 380px;
+	}
+	
+.oneColFixCtrHdr #mainContent p {	
+	width: 160px;
+	}
+
+.oneColFixCtrHdr #footer {
+	height: 88px;
+	background-image: url(images/footerbackground.jpg);
+	background-repeat: repeat-x;
+	position: relative;
+	margin-top: 75px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+.oneColFixCtrHdr #footer img {
+	position: absolute;
+	left: 95px;
+	z-index: 3;
+	top: auto;
+	bottom: 0px;
+}
+
+.oneColFixCtrHdr #footer p {
+	margin: 0; /* zeroing the margins of the first element in the footer will avoid the possibility of margin collapse - a space between divs */
+	padding: 10px 0; /* padding on this element will create space, just as the the margin would have, without the margin collapse issue */
+}
+
+a:link {color: #f1a91c;}
+a:visited {color: #ccbda4;}
+a:hover {color: #ff1e00;}

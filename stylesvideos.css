@@ -1,0 +1,58 @@
+@charset "utf-8";
+.oneColFixCtrHdr img.headingelsinaloense {
+	left: 179px;
+	top: 418px;
+	position: absolute;
+	z-index: 2;
+}
+
+.oneColFixCtrHdr img.headingcobarde {
+	left: 216px;
+	top: 608px;
+	position: absolute;
+	z-index: 2;
+}
+
+.oneColFixCtrHdr img.badgevideo3 {
+	position: absolute;
+	left: 50px;
+	top: 390px;
+	z-index: 4;
+}
+
+.oneColFixCtrHdr img.badgevideo4 {
+	position: absolute;
+	left: 50px;
+	top: 580px;
+	z-index: 4;
+}
+
+
+.oneColFixCtrHdr #videothumb3 {
+	position:absolute;
+	left: 80px;
+	top: 410px;
+	padding: 10px;
+	border: thick dotted #C51200;
+	width: 380px;
+	}
+
+.oneColFixCtrHdr #videothumb4 {
+	position:absolute;
+	left: 80px;
+	top: 600px;
+	padding: 10px;
+	border: thick dotted #C51200;
+	width: 380px;
+	}
+	
+.oneColFixCtrHdr #videothumb3 p, #videothumb4 p{	
+    float:right;
+	padding: 15px;
+	}	
+	
+.oneColFixCtrHdr #videothumb3 img, #videothumb4 img{
+	float:left;
+	padding: 0px;
+	border: thin solid #F1AD1A;
+	}

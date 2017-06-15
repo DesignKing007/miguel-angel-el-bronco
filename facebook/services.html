@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no" />
+	<title>Your Title</title>
+	<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+	<!-- Include the Video Library -->
+  	<script src='video.js' type='text/javascript' charset='utf-8'></script>
+  	<script type='text/javascript'>
+    	VideoJS.setupAllWhenReady();
+  	</script>
+	<!-- Include the Video Stylesheet -->
+  	<link rel='stylesheet' href='video-js.css' type='text/css' media='screen' title='Video JS'>
+	<!-- More Scripts! -->
+	<script src="js/scripts.js" type="text/javascript"></script>
+	<script src="js/custom.js" type="text/javascript"></script>
+	<script type='text/javascript'>
+		window.fbAsyncInit = function() {
+		FB.Canvas.setSize({ width: 520, height: 3000 });
+		}
+		// Do things that will sometimes call sizeChangeCallback()
+		function sizeChangeCallback() {
+		FB.Canvas.setSize({ width: 520, height: 3000 });
+		}
+	</script>
+</head>
+<body class="portrait inner">
+
+<!-- Header starts here -->
+<header>
+	<h1 class="logo">
+		<a href="home_page.html">Your Company Name Here</a>
+	</h1>
+	<ul id="user_links">
+		<li>
+			<a id="login_link" href="#">Log In</a>
+		</li>
+	</ul>
+	<div id="login_window">
+		<form id="login_form" method="POST">
+			<p>
+				<input type="text" name="login_name" id="login_name" value="" />
+				<input type="password" name="login_password" id="login_password" value="" />
+				<button class="button">Log In</button>
+			</p>
+		</form>
+	</div>
+    <h2>713-364-4627</h2>
+</header>
+
+<!-- Topbar structure goes here -->
+<div id="top_bar">
+	<p class="top_bar_buttons left" id="top_bar_home"><a href="home_page.html">Home</a></p>
+</div>
+
+<!-- Wrapper starts here -->
+<div id="wrapper">
+	<div id="main_navigation">
+		<a id="main_navigation_button" class="button" href="#">Navigation <span>></span></a>
+		<ul id="main_navigation_links">
+			<li><a href="home_page.html">Home</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="services.html">Services</a></li>
+			<li><a href="styles_page.html">Styles Page</a></li>
+		</ul>
+		<form id="top_search" method="post">
+			<p>
+				<input type="text" id="search_input" name="search_input" />
+			</p>
+		</form>
+	</div>
+	<div class="posts_list">
+		<article class="first">
+			<h2>Service One</h2>
+			<p class="align_center"><a href="service_1.html"><img src="http://localdominate.s3.amazonaws.com/video-posters/Bedrock%20City%20Comics.png" alt="" /></a></p>
+			<p>This could be an overview of this service and some helpful tips on what to expect.</p>
+			<p class="post_data">posted: 12/11/2010</p>
+			<p class="read_more"><a class="button" href="service_1.html#comments">Comments</a> <a class="button" href="service_1.html">Read More</a></p>
+		</article>
+		<article>
+			<h2>Service Two</h2>
+			<p class="align_center"><a href="service_2.html"><img src="http://localdominate.s3.amazonaws.com/video-posters/poster-agc.png" alt="" /></a></p>
+			<p>This could be an overview of this service and some helpful tips on what to expect.</p>
+			<p class="post_data">posted: 10/11/2010</p>
+			<p class="read_more"><a class="button" href="service_2.html#comments">Comments</a> <a class="button" href="service_2.html">Read More</a></p>
+		</article>
+		
+	</div>
+</div>
+
+<!-- Footer starts here -->
+<footer>
+	<div class="container first">
+		<h1>Alternate Links</h1>
+		<ul id="footer_navigation_links">
+			<li><a href="http://fbmaxed.com/fbmaxed-2/" target="_new">Our Website</a></li>
+		</ul>
+	</div>
+	<div class="container">
+		<h1>Keeping In Touch</h1>
+		<p id="twitter_update">I'm enjoying the new iframes capability on Facebook Pages!</p>
+		<p id="follow_button"><a class="button" href="http://twitter.com/localdominate" target="_new">follow</a></p>
+		<p id="twitter_name"><a href="#">@localdominate</a></p>
+	</div>
+	<div class="container">
+		<h1>Super Fast Email Form</h1>
+		<p>Please fill in all fileds below</p>
+		<form method="post" action="">
+			<fieldset>
+				<label for="name">Name</label>
+				<input class="name" type="text" name="name" id="contact_name" value="" />
+				<label for="email">Email</label>
+				<input class="email" type="text" name="email" id="contact_email" value="" />
+				<label for="text">Message</label>
+				<textarea class="message" rows="10" cols="10" id="contact_message" name="text"></textarea>
+				<div class="form_alert"></div>
+				<button class="form_submit button">Send message</button>
+			</fieldset>
+		</form>
+	</div>
+	<div class="container last">
+		<p id="copyrights">Copyright © 2010 Company name</p>
+		<p id="back2top"><a href="#">Back To Top</a></p>
+	</div>
+</footer>
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+FB.init({
+appId : '108915649195488',
+status : true, // check login status
+cookie : true, // enable cookies to allow the server to access the session
+xfbml : true // parse XFBML
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+body {
+  background-color: #D3D0AD;
+  color: #FFFFFF;
+}
+
+a:link {color: #FFFFCC;}
+
+a:visited {color: #FFFFCC;}
+
+a:active {color: #FFFFCC;}
+
+.navigationtext {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.imagetitle {
+  font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+  <videos>
+<video>
+		<title><![CDATA[<img src='thumbs/plebes.jpg' hspace='0' vspace='2'>&nbsp;<span class='videoTitle'>Las Plebes Bravas<br>&nbsp;(DSL/Cable)</span><br>&nbsp;<span class='colons'></span><span class='videoDescription'> 2:45</span>]]></title>
+		<file><![CDATA[http://www.miguelangelelbronco.com/FLVPLAYER/video/plebesforwebsite512.flv]]></file>
+		<link><![CDATA[http://www.miguelangelelbronco.com]]></link>
+	</video>
+	<video>
+		<title><![CDATA[<img src='thumbs/plebes.jpg' hspace='0' vspace='2'>&nbsp;<span class='videoTitle'>Las Plebes Bravas<br>&nbsp;(Discado)</span><br>&nbsp;<span class='colons'></span><span class='videoDescription'> 2:45</span>]]></title>
+		<file><![CDATA[http://www.miguelangelelbronco.com/FLVPLAYER/video/plebesforwebsite128.flv]]></file>
+		<link><![CDATA[http://www.miguelangelelbronco.com]]></link>
+	</video>
+<video>
+		<title><![CDATA[<img src='thumbs/estrellita.jpg' hspace='0' vspace='2'>&nbsp;<span class='videoTitle'>Estrellita<br>&nbsp;(DSL/Cable)</span><br>&nbsp;<span class='colons'></span><span class='videoDescription'> 3:23</span>]]></title>
+		<file><![CDATA[http://www.miguelangelelbronco.com/FLVPLAYER/video/estrellita512.flv]]></file>
+		<link><![CDATA[http://www.miguelangelelbronco.com]]></link>
+	</video>
+	<video>
+		<title><![CDATA[<img src='thumbs/estrellita.jpg' hspace='0' vspace='2'>&nbsp;<span class='videoTitle'>Estrellita<br>&nbsp;(Discado)</span><br>&nbsp;<span class='colons'></span><span class='videoDescription'> 3:23</span>]]></title>
+		<file><![CDATA[http://www.miguelangelelbronco.com/FLVPLAYER/video/estrellita256.flv]]></file>
+		<link><![CDATA[http://www.miguelangelelbronco.com]]></link>
+	</video>
+	<video>
+		<title><![CDATA[<img src='thumbs/ElSinaloense.jpg' hspace='0' vspace='2'>&nbsp;<span class='videoTitle'>El Sinaloense<br>&nbsp;(DSL/Cable)</span><br>&nbsp;<span class='colons'></span><span class='videoDescription'> 2:46</span>]]></title>
+		<file><![CDATA[http://www.miguelangelelbronco.com/FLVPLAYER/video/ElSinaloense512.flv]]></file>
+		<link><![CDATA[http://www.miguelangelelbronco.com/musica/1/index.html]]></link>
+	</video> 
+	<video>
+		<title><![CDATA[<img src='thumbs/ElSinaloense.jpg' hspace='0' vspace='2'>&nbsp;<span class='videoTitle'>El Sinaloense<br>&nbsp;(Discado)</span><br>&nbsp;<span class='colons'></span><span class='videoDescription'> 2:46</span>]]></title>
+		<file><![CDATA[http://www.miguelangelelbronco.com/FLVPLAYER/video/ElSinaloense100.flv]]></file>
+		<link><![CDATA[http://www.miguelangelelbronco.com/musica/1/index.html]]></link>
+	</video> 
+	<video>
+		<title><![CDATA[<img src='thumbs/cobarde.jpg' hspace='0' vspace='2'>&nbsp;<span class='videoTitle'>Cobarde<br>&nbsp;(DSL/Cable)</span><br>&nbsp;<span class='colons'></span><span class='videoDescription'> 3:07</span>]]></title>
+		<file><![CDATA[http://www.miguelangelelbronco.com/FLVPLAYER/video/Cobarde512.flv]]></file>
+		<link><![CDATA[http://www.miguelangelelbronco.com/musica/2/index.html]]></link>
+	</video>
+	<video>
+		<title><![CDATA[<img src='thumbs/cobarde.jpg' hspace='0' vspace='2'>&nbsp;<span class='videoTitle'>Cobarde<br>&nbsp;(Discado)</span><br>&nbsp;<span class='colons'></span><span class='videoDescription'> 3:07</span>]]></title>
+		<file><![CDATA[http://www.miguelangelelbronco.com/FLVPLAYER/video/Cobarde100.flv]]></file>
+		<link><![CDATA[http://www.miguelangelelbronco.com/musica/2/index.html]]></link>
+	</video> 
+	<video>
+		<title><![CDATA[<img src='thumbs/festival.jpg' hspace='0' vspace='2'>&nbsp;<span class='videoTitle'>Festival Parque Salazar 1990<br>&nbsp;(DSL/Cable)</span><br>&nbsp;<span class='colons'></span><span class='videoDescription'> 1:08</span>]]></title>
+		<file><![CDATA[http://www.miguelangelelbronco.com/FLVPLAYER/video/Festivalparquesalazar512.flv]]></file>
+		<link><![CDATA[http://www.miguelangelelbronco.com]]></link>
+	</video>
+	<video>
+		<title><![CDATA[<img src='thumbs/festival.jpg' hspace='0' vspace='2'>&nbsp;<span class='videoTitle'>Festival Parque Salazar 1990<br>&nbsp;(Discado)</span><br>&nbsp;<span class='colons'></span><span class='videoDescription'> 1:08</span>]]></title>
+		<file><![CDATA[http://www.miguelangelelbronco.com/FLVPLAYER/video/Festivalparquesalazar100.flv]]></file>
+		<link><![CDATA[http://www.miguelangelelbronco.com]]></link>
+	</video>
+</videos>

@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+
+.oneColFixCtrHdr #container #maintop #cd1 {
+	top: 60px;
+	position: absolute;
+	left: 15px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: dashed;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: dashed;
+	border-top-color: #F1AD1A;
+	border-right-color: #F1AD1A;
+	border-bottom-color: #F1AD1A;
+	border-left-color: #F1AD1A;
+	z-index: 99;
+}
+.oneColFixCtrHdr #container #maintop #cd2 {
+	position: absolute;
+	top: 60px;
+	left: 185px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: dashed;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #F1AD1A;
+	border-right-color: #F1AD1A;
+	border-bottom-color: #F1AD1A;
+	border-left-color: #F1AD1A;
+	z-index: 99;
+}
+.oneColFixCtrHdr #container #maintop #cd3 {
+	position: absolute;
+	top: 60px;
+	left: 430px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: dashed;
+	border-right-style: dashed;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #F1AD1A;
+	border-right-color: #F1AD1A;
+	border-bottom-color: #F1AD1A;
+	border-left-color: #F1AD1A;
+	z-index: 99;
+}
+.oneColFixCtrHdr #container #maintop #cd4 {
+	position: absolute;
+	top: 148px;
+	left: 15px;
+	border-right-width: thin;
+	border-right-style: none;
+	border-right-color: #F1AD1A;
+	border-left-width: thin;
+	border-left-style: dashed;
+	border-left-color: #F1AD1A;
+	z-index: 99;
+}
+.oneColFixCtrHdr #container #maintop #cd5 {
+	position: absolute;
+	top: 347px;
+	left: 15px;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: dashed;
+	border-left-style: dashed;
+	border-left-color: #F1AD1A;
+	border-bottom-width: thin;
+	border-bottom-color: #F1AD1A;
+	z-index: 99;
+}
+.oneColFixCtrHdr #container #maintop #cd6 {
+	position: absolute;
+	top: 347px;
+	left: 185px;
+	border-bottom-width: thin;
+	border-bottom-style: dashed;
+	border-bottom-color: #F1AD1A;
+	z-index: 99;
+}
+.oneColFixCtrHdr #container #maintop #cd7 {
+	position: absolute;
+	left: 377px;
+	top: 347px;
+	border-bottom-width: thin;
+	border-bottom-style: dashed;
+	border-bottom-color: #F1AD1A;
+	border-right-width: thin;
+	border-right-style: dashed;
+	border-right-color: #F1AD1A;
+	z-index: 99;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PLAYERSETTINGS autostart="yes" playall="yes" loop="no" shuffle="no"/>
+<PLAYLIST>
+   <FILE src="01%20Track%201.flv" desc="Las Plebes Bravas" artist="Miguel Angel &quot;El Bronco&quot;" album="Las Plebes Bravas" minutes="0" seconds="36"/>
+   <FILE src="02%20Track%202.flv" desc="Perros Malagradecidos" artist="Miguel Angel &quot;El Bronco&quot;" album="Las Plebes Bravas" minutes="0" seconds="26"/>
+   <FILE src="03%20Track%203.flv" desc="El Corrido de Francisco Marmolejo" artist="Miguel Angel &quot;El Bronco&quot;" album="Las Plebes Bravas" minutes="0" seconds="33"/>
+   <FILE src="04%20Track%204.flv" desc="El Corrido de Francisco Javier" artist="Miguel Angel &quot;El Bronco&quot;" album="Las Plebes Bravas" minutes="0" seconds="30"/>
+   <FILE src="05%20Track%205.flv" desc="Cristaleros Michoacanos" artist="Miguel Angel &quot;El Bronco&quot;" album="Las Plebes Bravas" minutes="0" seconds="32"/>
+   <FILE src="06%20Track%206.flv" desc="Par de Anillos" artist="Miguel Angel &quot;El Bronco&quot;" album="Las Plebes Bravas" minutes="0" seconds="33"/>
+   <FILE src="07%20Track%207.flv" desc="Cosa de Locos" artist="Miguel Angel &quot;El Bronco&quot;" album="Las Plebes Bravas" minutes="0" seconds="31"/>
+   <FILE src="08%20Track%208.flv" desc="La Hierba se Movía" artist="Miguel Angel &quot;El Bronco&quot;" album="Las Plebes Bravas" minutes="0" seconds="31"/>
+   <FILE src="09%20Track%209.flv" desc="Mujer" artist="Miguel Angel &quot;El Bronco&quot;" album="Las Plebes Bravas" minutes="0" seconds="31"/>
+   <FILE src="10%20Track%2010.flv" desc="Estrellita" artist="Miguel Angel &quot;El Bronco&quot;" album="Las Plebes Bravas" minutes="0" seconds="33"/>
+</PLAYLIST>

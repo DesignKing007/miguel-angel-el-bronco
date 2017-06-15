@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PLAYERSETTINGS autostart="yes" playall="yes" loop="yes" shuffle="no"/>
+<PLAYLIST>
+   <FILE src="1.flv" desc="EL BRONCO" artist="Miguel Angel" album="El Bronco" minutes="0" seconds="20"/>
+   <FILE src="2.flv" desc="COMO LAS GAVIOTAS" artist="Miguel Angel" album="El Bronco" minutes="0" seconds="26"/>
+   <FILE src="3.flv" desc="MAS MUERTO QUE VIVO" artist="Miguel Angel" album="El Bronco" minutes="0" seconds="22"/>
+   <FILE src="4.flv" desc="VOLVAMOS A EMPEZAR" artist="Miguel Angel" album="El Bronco" minutes="0" seconds="36"/>
+   <FILE src="5.flv" desc="EL SINALOENSE" artist="Miguel Angel" album="El Bronco" minutes="0" seconds="30"/>
+   <FILE src="6.flv" desc="MAYOR QUE TU" artist="Miguel Angel" album="El Bronco" minutes="0" seconds="30"/>
+   <FILE src="7.flv" desc="MORENITA" artist="Miguel Angel" album="El Bronco" minutes="0" seconds="27"/>
+   <FILE src="8.flv" desc="UNA CALLE UN BANCO Y UNA PLAZA" artist="Miguel Angel" album="El Bronco" minutes="0" seconds="35"/>
+   <FILE src="9.flv" desc="EL CONSEJO" artist="Miguel Angel" album="El Bronco" minutes="0" seconds="29"/>
+   <FILE src="10.flv" desc="DINORA" artist="Miguel Angel" album="El Bronco" minutes="0" seconds="30"/>
+   <FILE src="11.flv" desc="DINORA REMIX" artist="Miguel Angel" album="El Bronco" minutes="0" seconds="30"/>
+</PLAYLIST>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no" />
+	<title>Your Title</title>
+	
+<!-- Include the Video Library -->
+  <script src='video.js' type='text/javascript' charset='utf-8'></script>
+
+  <script type='text/javascript'>
+    VideoJS.setupAllWhenReady();
+  </script>
+
+<!-- Include the Video Stylesheet -->
+  <link rel='stylesheet' href='video-js.css' type='text/css' media='screen' title='Video JS'>
+<!-- More Scripts! -->
+	<script src="js/scripts.js" type="text/javascript"></script>
+	<script src="js/custom.js" type="text/javascript"></script>
+	<script type='text/javascript'>
+window.fbAsyncInit = function() {
+FB.Canvas.setSize({ width: 520, height: 3000 });
+}
+// Do things that will sometimes call sizeChangeCallback()
+function sizeChangeCallback() {
+FB.Canvas.setSize({ width: 520, height: 3000 });
+}
+</script>
+</head>
+<body>
+
+<img src="img/reveal.jpg">
+
+
+<h1 style="text-align: center;"></h1>
+
+<!-- Begin Opt-in Code -->
+<!-- Replace this line with your opt-in code...remember to restrict your opt-in code to 510 pixels -->
+<!-- End Opt-in Code -->
+
+
+
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+FB.init({
+appId : '108915649195488',
+status : true, // check login status
+cookie : true, // enable cookies to allow the server to access the session
+xfbml : true // parse XFBML
+});
+</script>
+
+</body
+></html>

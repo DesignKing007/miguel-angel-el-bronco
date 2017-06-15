@@ -1,0 +1,33 @@
+a:link {
+	color: #006699;
+	text-decoration: underline;
+}
+
+.colons {
+	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	font-weight: normal;
+	color: #666666;
+}
+
+.category { 
+	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-size:14px; 
+	font-weight:bold; 
+	color:#000099; 
+}
+
+.videoTitle {
+	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-size:10px; 
+	font-weight:bold; 
+	color:#000000; 
+}
+
+.videoDescription {
+	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-size:10px; 
+	font-weight:normal; 
+	color:#666666; 
+}
+

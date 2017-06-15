@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PLAYERSETTINGS autostart="yes" playall="yes" loop="yes" shuffle="no"/>
+<PLAYLIST>
+   <FILE src="1.flv" desc="COBARDE" artist="Miguel Angel" album="Nostalgia Ranchera" minutes="0" seconds="40"/>
+   <FILE src="2.flv" desc="CANSADO DE AMARTE" artist="Miguel Angel" album="Nostalgia Ranchera" minutes="0" seconds="30"/>
+   <FILE src="3.flv" desc="TU AUSENCIA" artist="Miguel Angel" album="Nostalgia Ranchera" minutes="0" seconds="29"/>
+   <FILE src="4.flv" desc="QUE CARO ESTOY PAGANDO" artist="Miguel Angel" album="Nostalgia Ranchera" minutes="0" seconds="24"/>
+   <FILE src="5.flv" desc="QUE MANERA DE CHIFLAR" artist="Miguel Angel" album="Nostalgia Ranchera" minutes="0" seconds="25"/>
+   <FILE src="6.flv" desc="HERIDO" artist="Miguel Angel" album="Nostalgia Ranchera" minutes="0" seconds="21"/>
+   <FILE src="7.flv" desc="PERDON" artist="Miguel Angel" album="Nostalgia Ranchera" minutes="0" seconds="36"/>
+   <FILE src="8.flv" desc="MEXICO LINDO Y QUERIDO" artist="Miguel Angel" album="Nostalgia Ranchera" minutes="0" seconds="38"/>
+   <FILE src="9.flv" desc="ME FALTA EL VALOR" artist="Miguel Angel" album="Nostalgia Ranchera" minutes="0" seconds="35"/>
+   <FILE src="10.flv" desc="ME ACOSTUMBRE CONTIGO" artist="Miguel Angel" album="Nostalgia Ranchera" minutes="0" seconds="29"/>
+</PLAYLIST>

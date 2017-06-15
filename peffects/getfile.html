@@ -1,0 +1,16 @@
+<html>
+<head><title>Select the file you want to load</title></head>
+
+<body>
+<p style="text-align: center; font-size: 16pt; color: midnightblue; font-weight: bold;">Import Animation</p>
+<form name="frmGetFile" enctype="multipart/form-data" action="import.php" method="POST">
+<input type="hidden" name="MAX_FILE_SIZE" value="1000000" />
+<p align="center">File to Load: <input type="file" name="uploadfile"></p>
+<p align="center"><a href="#" onclick="document.frmGetFile.submit();"><img src="img/import.gif" border="0" width="57" height="21"></a>
+<a href="#" onclick="window.close();"><img src="img/cancel.gif" border="0" width="57" height="21"></a></p>
+</form>
+
+<p align="center"><b>WARNING: The animation you load will<br>overwrite the current animation.</b></p>
+
+</body>
+</html>
